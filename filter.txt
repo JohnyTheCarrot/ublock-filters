@@ -1,3 +1,4 @@
+! Title: Carrot's Rules
 deliveroo.co.uk##[class^="HomeFeedGrid-"]:not(:has(> [class^="HomeFeedGrid-"])):has-text("Featured")
 deliveroo.co.uk##li[id^="splide"][id*="slide"]:has-text("Sponsored")
 deliveroo.co.uk##[class^="Carousel"] li[class^="Slide"]:has(a[href*="&sp_id"])
@@ -5,3 +6,5 @@ deliveroo.co.uk##[class^="Carousel"] li[class^="Slide"]:has(a[href*="?sp_id"])
 deliveroo.co.uk##[class^="HomeFeedGrid-"]:not(:has([class^="HomeFeedGrid-"])):has-text("Black Friday")
 deliveroo.co.uk##[class^="HomeFeedGrid-"]:not(:has(> [class^="HomeFeedGrid-"])):has(div[style*="/marketing_banner/"])
 deliveroo.co.uk##[class^="HomeFeedGrid-"]:has(> [class^="HomeFeedScrollTracker-"]:has-text("Sponsored"))
+labex.io##.top-notice
+labex.io##.fixed.bottom-0.left-0.right-0
